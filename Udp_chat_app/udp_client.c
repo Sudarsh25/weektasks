@@ -1,6 +1,6 @@
 /*
  * SPDX-License-Identifier: MIT
- * Author: Sree Sudarshan RV
+ * Author: SreeSudarshan RV
  * Project: UDP Chat Client in C
  *
  * Description:
@@ -11,7 +11,7 @@
  * License: MIT License
  * You are free to use, modify, and distribute this code under the terms of the MIT license.
  *
- * GitHub Repository: https://github.com/Sudarsh25/udp-chat-app
+ * GitHub Repository: https://github.com/Sudarsh25/weektasks/Udp_chat_app
  */
 
 #include <stdio.h>

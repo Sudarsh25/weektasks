@@ -1,0 +1,4 @@
+west:
+  command: /home/sudersan/zephyr-env/bin/west build -b bgm220p_custom -t pristine
+  topdir: /home/sudersan/zephyrproject
+  version: 1.4.0

@@ -14,32 +14,34 @@ Enable Zephyr RTOS support on **BGM220P** for embedded development, allowing fir
 ---
 
 ## 🧩 Project Structure
+```
 BGM220P_Zephyr_Porting/
 ├── boards/
-│ └── arm/bgm220p/
-│ ├── bgm220p.dts
-│ ├── bgm220p.dtsi
-│ ├── pinctrl.dtsi
-│ ├── bgm220p_defconfig
-│ ├── bgm220p.yaml
-│ ├── Kconfig
-│ ├── board.cmake
-│ ├── CMakeLists.txt
-│ └── Kconfig.bgm220p
+│   └── arm/
+│       └── bgm220p/
+│           ├── bgm220p.dts
+│           ├── bgm220p.dtsi
+│           ├── pinctrl.dtsi
+│           ├── bgm220p.defconfig
+│           ├── bgm220p.yaml
+│           ├── Kconfig
+│           ├── board.cmake
+│           ├── CMakeLists.txt
+│           └── Kconfig.bgm220p
 ├── dtsi_files/
-│ ├── bgm220p.dtsi
-│ ├── efm32gg11b.dtsi
-│ ├── efr32_series1_common.dtsi
-│ └── efr32_series1_common_pinctrl.dtsi
+│   ├── bgm220p.dtsi
+│   ├── efm32gg11b.dtsi
+│   ├── efr32_series1_common.dtsi
+│   └── efr32_series1_common_pinctrl.dtsi
 ├── my_app/
-│ ├── prj.conf
-│ ├── CMakeLists.txt
-│ └── src/
-│ └── main.c
+│   ├── prj.conf
+│   ├── CMakeLists.txt
+│   └── src/
+│       └── main.c
 ├── docs/
-│ ├── BGM220p.pdf
-│ ├── week2ble.pdf
-│ └── week2process.pdf
+│   ├── BGM220p.pdf
+│   ├── week2ble.pdf
+│   └── week2process.pdf
 
 
 ---

@@ -115,6 +115,7 @@ Documentation related to this porting effort is located in the docs/ directory:
  📄 BGM220p.pdf — Board design and integration notes
  📄 week2ble.pdf — BLE stack and configuration details
  📄 week2process.pdf — Porting and build process summary
+ 📄 Zephyr_porting_bgm220p.pdf - Completed the porting for bgm220p_module
 
 📄 License
 

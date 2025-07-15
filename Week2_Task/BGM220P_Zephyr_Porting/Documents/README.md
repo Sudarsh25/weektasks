@@ -134,6 +134,9 @@ west flash
 
 ✅ On pressing BTN0: LED toggles and "Hello World! sltb010a" prints via UART.
 
+![BGM220p](https://github.com/user-attachments/assets/c28d3a8c-fc37-4863-9afe-e702ebb0db79)
+
+
 ## 📶 Enable and Test Bluetooth on BGM220P
 
 The BGM220P (EFR32BG22) module supports **Bluetooth Low Energy (BLE)** out of the box.
